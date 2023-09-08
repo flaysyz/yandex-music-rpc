@@ -3,7 +3,7 @@
 #### Если яндекс музыка долго будет выключена программа выключится сама
 ### Туториал по установке и запуску
 - Установить [Python](https://www.python.org/downloads/) и нажать add to path
-- Получить [api ключ Яндекс Музыки](https://github.com/MarshalX/yandex-music-token)
+- Получить [Api ключ Яндекс Музыки](https://github.com/MarshalX/yandex-music-token)
 - Вставить этот ключ в файл yandex_token.txt
 - Запустить Run.bat от имени администратора
 ### Работа
