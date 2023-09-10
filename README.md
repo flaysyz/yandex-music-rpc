@@ -5,6 +5,7 @@
 - Установить [Python](https://www.python.org/downloads/) и нажать add to path
 - Получить [Api ключ Яндекс Музыки](https://github.com/MarshalX/yandex-music-token)
 - Вставить этот ключ в файл yandex_token.txt
+- Нажань ПКМ по файлу Run.bat -> изменить, и дальше во 2 и 3 строке заменить после cd и python ставить нужные пути
 - Запустить Run.bat от имени администратора
 ### Работа
 ![Kd4niRj](https://github.com/flaysyz/yandex-music-rpc/assets/91736204/a0f2f6f4-e8e6-4264-9157-7f7ff25903f5)
