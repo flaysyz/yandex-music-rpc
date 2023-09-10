@@ -8,4 +8,5 @@
 - Нажань ПКМ по файлу Run.bat -> изменить, и дальше во 2 и 3 строке заменить после cd и python ставить нужные пути
 - Запустить Run.bat от имени администратора
 ### Работа
-![Kd4niRj](https://github.com/flaysyz/yandex-music-rpc/assets/91736204/a0f2f6f4-e8e6-4264-9157-7f7ff25903f5)
+
+![meAUJIB](https://github.com/flaysyz/yandex-music-rpc/assets/91736204/7e72acd2-7941-454f-8803-c6025563a117)
